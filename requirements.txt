@@ -1,4 +1,4 @@
-django
-djangorestframework
-django-cors-headers
-gunicorn
+pip install Django==3.2
+pip install djangorestframework==3.12.4
+pip install django-cors-headers==3.7.0
+pip install gunicorn==20.1.0
